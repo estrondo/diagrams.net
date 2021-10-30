@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-30T00:38:51.429Z" agent="5.0 (X11)" etag="c2QswOZUD6EjBfZixQUG" version="15.5.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-30T00:42:13.208Z" agent="5.0 (X11)" etag="HtnrqUuZlNiwjEIW_Djb" version="15.5.9" type="github" pages="2">
   <diagram id="YG-1NZGBjE733tGzRl-S" name="Diagram">
     <mxGraphModel dx="1422" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -126,8 +126,25 @@
       <root>
         <mxCell id="cbEDff0OEaNYS-RPYu_h-0" />
         <mxCell id="cbEDff0OEaNYS-RPYu_h-1" parent="cbEDff0OEaNYS-RPYu_h-0" />
-        <mxCell id="cbEDff0OEaNYS-RPYu_h-2" value="Empty" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;sketch=1;" vertex="1" parent="cbEDff0OEaNYS-RPYu_h-1">
-          <mxGeometry x="110" y="170" width="60" height="60" as="geometry" />
+        <mxCell id="cbEDff0OEaNYS-RPYu_h-2" value="Empty" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;rounded=1;sketch=1;" vertex="1" parent="cbEDff0OEaNYS-RPYu_h-1">
+          <mxGeometry x="60" y="80" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEDff0OEaNYS-RPYu_h-3" value="Waiting" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;rounded=1;sketch=1;" vertex="1" parent="cbEDff0OEaNYS-RPYu_h-1">
+          <mxGeometry x="50" y="280" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cbEDff0OEaNYS-RPYu_h-4" value="" style="endArrow=classic;html=1;curved=1;sketch=1;" edge="1" parent="cbEDff0OEaNYS-RPYu_h-1" source="cbEDff0OEaNYS-RPYu_h-2" target="cbEDff0OEaNYS-RPYu_h-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="390" as="sourcePoint" />
+            <mxPoint x="450" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="10" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cbEDff0OEaNYS-RPYu_h-5" value="Create" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;sketch=1;" vertex="1" connectable="0" parent="cbEDff0OEaNYS-RPYu_h-4">
+          <mxGeometry x="0.2462" relative="1" as="geometry">
+            <mxPoint x="11" y="-18" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
