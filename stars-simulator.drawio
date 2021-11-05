@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-04T09:14:13.667Z" agent="5.0 (X11)" etag="8i3pJ3tl8lmrP-3xBhLl" version="15.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-05T02:17:21.239Z" agent="5.0 (X11)" etag="-5FSumrG0bYRChOU7zPW" version="15.6.6" type="github" pages="3">
   <diagram id="YG-1NZGBjE733tGzRl-S" name="Diagram">
     <mxGraphModel dx="1422" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -230,6 +230,14 @@
             <mxPoint x="-3" y="26" as="offset" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6IvnLzwdjDR4s4KKOKj7" name="Simulator : Clerk">
+    <mxGraphModel dx="1422" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="o4jnGBrPJfQ-jdHMLaOo-0" />
+        <mxCell id="o4jnGBrPJfQ-jdHMLaOo-1" parent="o4jnGBrPJfQ-jdHMLaOo-0" />
       </root>
     </mxGraphModel>
   </diagram>
