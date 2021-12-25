@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T19:51:11.922Z" agent="5.0 (X11)" etag="6u5rMpb0SybtmD9xD9z5" version="15.7.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-12-25T14:26:50.347Z" agent="5.0 (X11)" etag="sv9rFhezjZcM5okeWSq3" version="15.8.0" type="github" pages="4">
   <diagram id="YG-1NZGBjE733tGzRl-S" name="Diagram">
     <mxGraphModel dx="1422" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -352,8 +352,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="C04Zr7Rz-D5Vmhcn89S6" name="Page-4">
-    <mxGraphModel dx="813" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="C04Zr7Rz-D5Vmhcn89S6" name="message lanes">
+    <mxGraphModel dx="1422" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="Z-MwxLL08MibRmOfmdMe-0" />
         <mxCell id="Z-MwxLL08MibRmOfmdMe-1" parent="Z-MwxLL08MibRmOfmdMe-0" />
@@ -369,13 +369,13 @@
         <mxCell id="AA0ueG76vOu6gDArG_Ti-4" value="Topic: Command" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=default;verticalAlign=middle;" parent="AA0ueG76vOu6gDArG_Ti-1" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pFkgIgIztym1aTCM8fX4-1" value="Topic: Event" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=default;" vertex="1" parent="AA0ueG76vOu6gDArG_Ti-1">
+        <mxCell id="pFkgIgIztym1aTCM8fX4-1" value="Topic: Event" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=default;" parent="AA0ueG76vOu6gDArG_Ti-1" vertex="1">
           <mxGeometry x="45" y="360" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AA0ueG76vOu6gDArG_Ti-2" value="simulator - akka" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="Z-MwxLL08MibRmOfmdMe-1" vertex="1">
           <mxGeometry x="630" y="40" width="100" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="pFkgIgIztym1aTCM8fX4-0" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Simulator - PersistentEntity&lt;br&gt;&lt;/span&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=12;" vertex="1" parent="AA0ueG76vOu6gDArG_Ti-2">
+        <mxCell id="pFkgIgIztym1aTCM8fX4-0" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Simulator - PersistentEntity&lt;br&gt;&lt;/span&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=12;" parent="AA0ueG76vOu6gDArG_Ti-2" vertex="1">
           <mxGeometry x="45" y="240" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AA0ueG76vOu6gDArG_Ti-12" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Simulator - PersistentEntity&lt;br&gt;&lt;/span&gt;" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=12;" parent="AA0ueG76vOu6gDArG_Ti-2" vertex="1">
