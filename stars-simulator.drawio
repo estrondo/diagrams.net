@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-09T07:09:28.486Z" agent="5.0 (X11)" etag="NjVBBd7MZn-oAuqf52-D" version="16.1.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-01-09T07:09:56.676Z" agent="5.0 (X11)" etag="CfkEDYjUlV6pXMJgGbR7" version="16.1.2" type="github" pages="6">
   <diagram id="YG-1NZGBjE733tGzRl-S" name="Diagram">
     <mxGraphModel dx="1422" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -547,6 +547,9 @@
         <mxCell id="zP5YoZmq4kC6KruIrC9I-1" parent="zP5YoZmq4kC6KruIrC9I-0" />
         <mxCell id="zP5YoZmq4kC6KruIrC9I-4" value="&lt;div&gt;SimulationRouter&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" parent="zP5YoZmq4kC6KruIrC9I-1" vertex="1">
           <mxGeometry x="180" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3IT3t4Jm8jmblf2NWW6-0" value="SimulatorServiceAdapter" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="zP5YoZmq4kC6KruIrC9I-1">
+          <mxGeometry x="490" y="70" width="175" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
