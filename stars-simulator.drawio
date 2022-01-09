@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-09T10:42:07.571Z" agent="5.0 (X11)" etag="bCsOQxrmmYLUVob7a2qz" version="16.1.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-01-09T10:45:04.820Z" agent="5.0 (X11)" etag="Kcw2l0AVYyyZM8szT8Uo" version="16.1.2" type="github" pages="6">
   <diagram id="YG-1NZGBjE733tGzRl-S" name="Diagram">
     <mxGraphModel dx="1422" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -653,6 +653,24 @@
         </mxCell>
         <mxCell id="V3IT3t4Jm8jmblf2NWW6-7" value="SimulationEntity&lt;br&gt;Cluster Shard, Event Source&lt;br&gt; " style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=14;" vertex="1" parent="V3IT3t4Jm8jmblf2NWW6-37">
           <mxGeometry x="250" y="40" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3IT3t4Jm8jmblf2NWW6-51" value="" style="endArrow=classic;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=1;shadow=0;sketch=1;fontSize=14;curved=1;endFill=1;entryX=0.102;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="zP5YoZmq4kC6KruIrC9I-1" source="V3IT3t4Jm8jmblf2NWW6-36" target="V3IT3t4Jm8jmblf2NWW6-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="100" as="sourcePoint" />
+            <mxPoint x="770" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V3IT3t4Jm8jmblf2NWW6-52" value="" style="endArrow=classic;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=1;shadow=0;sketch=1;fontSize=14;curved=1;endFill=1;entryX=0.105;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="zP5YoZmq4kC6KruIrC9I-1" source="V3IT3t4Jm8jmblf2NWW6-36" target="V3IT3t4Jm8jmblf2NWW6-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="525" y="67.87878787878788" as="sourcePoint" />
+            <mxPoint x="609.98" y="199.89999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="90" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
