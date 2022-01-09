@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-09T07:11:55.376Z" agent="5.0 (X11)" etag="qMVucgtcBWfkOuRrEa-J" version="16.1.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-01-09T07:18:19.780Z" agent="5.0 (X11)" etag="93mbcOGYf8rEpWCgrzgr" version="16.1.2" type="github" pages="6">
   <diagram id="YG-1NZGBjE733tGzRl-S" name="Diagram">
     <mxGraphModel dx="1422" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -562,6 +562,15 @@
         </mxCell>
         <mxCell id="V3IT3t4Jm8jmblf2NWW6-4" value="&lt;div&gt;SimulatorGateway&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="zP5YoZmq4kC6KruIrC9I-1">
           <mxGeometry x="450" y="354" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3IT3t4Jm8jmblf2NWW6-5" value="&lt;div&gt;SimulationRepositoryImpl&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="zP5YoZmq4kC6KruIrC9I-1">
+          <mxGeometry x="90" y="460" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3IT3t4Jm8jmblf2NWW6-6" value="SimulatorGatewayKafka" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="zP5YoZmq4kC6KruIrC9I-1">
+          <mxGeometry x="520" y="450" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V3IT3t4Jm8jmblf2NWW6-7" value="SimulationEntity : Cluster Sharding" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="zP5YoZmq4kC6KruIrC9I-1">
+          <mxGeometry x="130" y="540" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
