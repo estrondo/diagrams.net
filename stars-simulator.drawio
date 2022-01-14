@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T18:25:50.736Z" agent="5.0 (X11)" etag="jot0UDF6oy-PCCO-kswS" version="16.2.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-01-14T18:26:35.142Z" agent="5.0 (X11)" etag="tV4xMC3YAWAsO2dm1loE" version="16.2.6" type="github" pages="6">
   <diagram id="YG-1NZGBjE733tGzRl-S" name="Diagram">
     <mxGraphModel dx="1422" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -654,16 +654,16 @@
         <mxCell id="V3IT3t4Jm8jmblf2NWW6-7" value="SimulationEntity&lt;br&gt;Cluster Shard, Persistent Event Source&lt;br&gt; " style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=14;strokeWidth=1;" parent="V3IT3t4Jm8jmblf2NWW6-37" vertex="1">
           <mxGeometry x="250" y="40" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V3IT3t4Jm8jmblf2NWW6-51" value="" style="endArrow=classic;html=1;strokeWidth=1;rounded=0;shadow=0;sketch=1;fontSize=14;endFill=1;" parent="zP5YoZmq4kC6KruIrC9I-1" source="V3IT3t4Jm8jmblf2NWW6-36" target="V3IT3t4Jm8jmblf2NWW6-37" edge="1">
+        <mxCell id="V3IT3t4Jm8jmblf2NWW6-51" value="" style="endArrow=classic;html=1;strokeWidth=1;shadow=0;sketch=1;fontSize=14;endFill=1;strokeColor=default;curved=1;" parent="zP5YoZmq4kC6KruIrC9I-1" source="V3IT3t4Jm8jmblf2NWW6-36" target="V3IT3t4Jm8jmblf2NWW6-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="720" y="100" as="sourcePoint" />
             <mxPoint x="750" y="100" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="795" y="80" />
+              <mxPoint x="720" y="50" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V3IT3t4Jm8jmblf2NWW6-52" value="" style="endArrow=classic;html=1;strokeWidth=1;rounded=0;shadow=0;sketch=1;fontSize=14;endFill=1;entryX=0.109;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;" parent="zP5YoZmq4kC6KruIrC9I-1" target="V3IT3t4Jm8jmblf2NWW6-27" edge="1">
+        <mxCell id="V3IT3t4Jm8jmblf2NWW6-52" value="" style="endArrow=classic;html=1;strokeWidth=1;shadow=0;sketch=1;fontSize=14;endFill=1;entryX=0.109;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" parent="zP5YoZmq4kC6KruIrC9I-1" target="V3IT3t4Jm8jmblf2NWW6-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="90" as="sourcePoint" />
             <mxPoint x="120" y="140" as="targetPoint" />
