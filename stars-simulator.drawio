@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T18:23:55.008Z" agent="5.0 (X11)" etag="YJHdRALx18UzJ3Ss6csF" version="16.2.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-01-14T18:25:50.736Z" agent="5.0 (X11)" etag="jot0UDF6oy-PCCO-kswS" version="16.2.6" type="github" pages="6">
   <diagram id="YG-1NZGBjE733tGzRl-S" name="Diagram">
     <mxGraphModel dx="1422" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -637,12 +637,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V3IT3t4Jm8jmblf2NWW6-37" value="webapi-simulator : module" style="swimlane;rounded=1;shadow=0;glass=0;sketch=1;fillStyle=auto;fontSize=14;fillColor=none;strokeWidth=1;" parent="zP5YoZmq4kC6KruIrC9I-1" vertex="1">
-          <mxGeometry x="550" y="180" width="490" height="220" as="geometry" />
+          <mxGeometry x="550" y="180" width="550" height="220" as="geometry" />
         </mxCell>
         <mxCell id="V3IT3t4Jm8jmblf2NWW6-5" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;SimulationRepositoryImpl&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=14;strokeWidth=1;" parent="V3IT3t4Jm8jmblf2NWW6-37" vertex="1">
           <mxGeometry x="35" y="40" width="175" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V3IT3t4Jm8jmblf2NWW6-6" value="SimulatorGatewayKafka" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=14;strokeWidth=1;" parent="V3IT3t4Jm8jmblf2NWW6-37" vertex="1">
+        <mxCell id="V3IT3t4Jm8jmblf2NWW6-6" value="SimulatorGatewayKafka&lt;br&gt;Akka Alpakka" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=14;strokeWidth=1;" parent="V3IT3t4Jm8jmblf2NWW6-37" vertex="1">
           <mxGeometry x="35" y="130" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V3IT3t4Jm8jmblf2NWW6-22" value="" style="endArrow=classic;html=1;rounded=1;sketch=1;fontSize=14;curved=1;strokeWidth=1;" parent="V3IT3t4Jm8jmblf2NWW6-37" source="V3IT3t4Jm8jmblf2NWW6-5" target="V3IT3t4Jm8jmblf2NWW6-7" edge="1">
@@ -651,8 +651,8 @@
             <mxPoint x="543.2853696498054" y="324" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V3IT3t4Jm8jmblf2NWW6-7" value="SimulationEntity&lt;br&gt;Cluster Shard, Event Source&lt;br&gt; " style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=14;strokeWidth=1;" parent="V3IT3t4Jm8jmblf2NWW6-37" vertex="1">
-          <mxGeometry x="250" y="40" width="230" height="60" as="geometry" />
+        <mxCell id="V3IT3t4Jm8jmblf2NWW6-7" value="SimulationEntity&lt;br&gt;Cluster Shard, Persistent Event Source&lt;br&gt; " style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=14;strokeWidth=1;" parent="V3IT3t4Jm8jmblf2NWW6-37" vertex="1">
+          <mxGeometry x="250" y="40" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V3IT3t4Jm8jmblf2NWW6-51" value="" style="endArrow=classic;html=1;strokeWidth=1;rounded=0;shadow=0;sketch=1;fontSize=14;endFill=1;" parent="zP5YoZmq4kC6KruIrC9I-1" source="V3IT3t4Jm8jmblf2NWW6-36" target="V3IT3t4Jm8jmblf2NWW6-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
